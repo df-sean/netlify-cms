@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: df-sean/netlify-cms
 
 media_folder: static/assets
 
